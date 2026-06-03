@@ -12,7 +12,7 @@ for(let i = 1; i <= 20; i++){
   else if(i % 5 === 0){
     console.log("Buzz")
   }
-  // どれにも当てはまらない場合、そのままの数を表示
+  // どれにも当てはまらないとき、そのままの数を表示
   else{
     console.log(i)
   }
